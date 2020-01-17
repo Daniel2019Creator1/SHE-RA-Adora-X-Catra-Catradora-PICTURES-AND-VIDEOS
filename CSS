@@ -1,0 +1,18 @@
+/* Created by: Daniel Shively */
+body {
+    
+}
+
+@import url("https://fonts.googleapis.com/css?family=Mountains+of+Christmas",'https://fonts.googleapis.com/css?family=Mountains+of+Christmas');
+
+Mountains of Christmas {
+    font-family: "Mountains of Christmas",'Mountains of Christmas',Mountains of Christmas;
+    font-style: "Mountains of Christmas",'Mountains of Christmas',Mountains of Christmas;
+}
+
+p {
+    font-family: "Mountains of Christmas",'Mountains of Christmas',Mountains of Christmas;
+    font-style: "Mountains of Christmas",'Mountains of Christmas',Mountains of Christmas;
+    color: DarkOrange;
+    color: "DarkOrange",'DarkOrange';
+}
